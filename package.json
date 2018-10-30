@@ -19,6 +19,7 @@
   "homepage": "https://github.com/hartiparti/Lab08#readme",
   "devDependencies": {
     "jest": "^23.6.0",
+    "nodemon": "^1.18.5",
     "supertest": "^3.3.0"
   },
   "dependencies": {
